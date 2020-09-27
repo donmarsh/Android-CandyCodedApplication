@@ -11,8 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,19 +209,38 @@
       <option name="project" value="LOCAL" />
       <updated>1601211265550</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Made Phone Text Clickable and created Intent to call store phone number.">
+      <created>1601211489162</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601211489162</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Made Phone Text Clickable and created Intent to call store phone number.">
+      <created>1601211553373</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601211553373</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update onOptionsSelected to start InfoActivity" />
     <MESSAGE value="Made Address Text Clickable and viewable on Maps." />
-    <option name="LAST_COMMIT_MESSAGE" value="Made Address Text Clickable and viewable on Maps." />
+    <MESSAGE value="Made Phone Text Clickable and created Intent to call store phone number." />
+    <option name="LAST_COMMIT_MESSAGE" value="Made Phone Text Clickable and created Intent to call store phone number." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="239" y="27" width="949" height="741" key="CommitChangelistDialog2" timestamp="1601211489028">
+    <state x="527" y="110" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1601211620919">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="239" y="27" width="949" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601211489028" />
+    <state x="527" y="110" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1601211620919" />
+    <state x="239" y="27" width="949" height="741" key="CommitChangelistDialog2" timestamp="1601211851547">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="239" y="27" width="949" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1601211851547" />
     <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1601211239646">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
@@ -239,9 +257,9 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1601211239646" />
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601211491291">
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601211554688">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1601211491291" />
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1601211554688" />
   </component>
 </project>
