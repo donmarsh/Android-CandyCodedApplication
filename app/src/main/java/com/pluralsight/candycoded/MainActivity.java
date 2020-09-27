@@ -81,12 +81,10 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
     public boolean onOptionsItemSelected(MenuItem item) {
-        if(item.getItemId()==R.id.info){
-            Intent intent = new Intent(this,InfoActivity.class);
-            startActivity(intent);
-            return true;
-        }
-        return super.onOptionsItemSelected(item);
+
+            Intent infoIntent = new Intent(this,InfoActivity.class);
+            startActivity(infoIntent);
+            return super.onOptionsItemSelected(item);
     }
 
     private void addCandiesToDatabase(Candy[] candies) {
